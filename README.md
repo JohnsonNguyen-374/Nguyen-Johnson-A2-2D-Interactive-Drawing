@@ -17,7 +17,7 @@ Controls for A2: 2D_Interactive-Drawing (Buggy Sunset)
 
 2)The initial Color of Buggy's body will be a random color
 
-    -Click the Space Bar to change Buggy's body to certain random Colors
+   -Click the Space Bar to change Buggy's body to certain random Colors
 
 3) The initial Time of Day will be in the Afternoon
    
