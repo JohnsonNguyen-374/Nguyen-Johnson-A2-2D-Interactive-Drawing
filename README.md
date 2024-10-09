@@ -15,7 +15,7 @@ Controls for A2: 2D_Interactive-Drawing (Buggy Sunset)
    
    -Click the Right-Mouse Button to change Buggy's eyes to the Next Color
 
-2)The initial Color of Buggy's body will be a random color
+2) The initial Color of Buggy's body will be a random color
 
    -Click the Space Bar to change Buggy's body to certain random Colors
 
