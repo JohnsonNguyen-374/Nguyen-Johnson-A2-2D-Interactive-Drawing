@@ -5,7 +5,7 @@ Main Features of Buggy Sunset
 
 1) Changing the Color of Buggy's eyes
 2) Changing the Color of Buggy's body
-3) Changing the Color of the Time of Day
+3) Changing the Time of Day
 
 Controls for A2: 2D_Interactive-Drawing (Buggy Sunset)
 
